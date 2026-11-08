@@ -1,6 +1,12 @@
 # eLinks Windows Control
 
-用于通过低功耗蓝牙控制 ENSY-JS 系列灯具的 Windows 桌面工具。已验证开关、白光亮度、2700–6500 K 色温和电视灯效。
+用于通过低功耗蓝牙控制**影邦 ENSY-JS 系列摄影灯**的 Windows 桌面工具。已验证开关、白光亮度、2700–6500 K 色温和电视灯效。
+
+## 界面截图
+
+| 白光控制 | 电视灯效 |
+| --- | --- |
+| ![白光控制界面](screenshots/white-light.png) | ![电视灯效界面](screenshots/tv-effect.png) |
 
 ## 使用
 
