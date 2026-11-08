@@ -10,6 +10,8 @@
 
 ## 使用
 
+在 [Releases](https://github.com/topsai/elinks-windows-control/releases/latest) 下载 Windows 64 位版 `eLinks-Control.exe`，双击运行。
+
 1. 打开电脑蓝牙并给灯具供电。
 2. 运行程序，在顶部搜索并选择灯具，点击连接。
 3. 用底部电源键开关灯光。拖动滑条或选择预设即可调整参数。
